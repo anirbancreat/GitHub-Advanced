@@ -1,4 +1,7 @@
 This is a shared file.
-Line 1: Original text.
-Update Line 2 in shared.txt for feature-2
-Line 2: Merged version from feature-1 and feature-2.
+2 line 1: original text
+3 feature-2
+4 line 2: modified text into feature 2
+5
+6 line 2: original text
+7 main
